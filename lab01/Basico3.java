@@ -9,7 +9,7 @@ public class Basico3 {
          * Os operadores aritméticos são usados para realizar operações matemáticas
          * comuns, como adição, subtração, multiplicação, divisão e módulo.
          */
-        int a = 10;
+        int a = 100;
         int b = 20;
         System.out.println("a + b = " + (a + b)); // 30
         System.out.println("a - b = " + (a - b)); // -10

@@ -11,7 +11,6 @@ public class Quatro {
         System.out.print("Informe o segundo número da sua operação: ");
         var num2 = sc.nextDouble();
         
-        
         System.out.println("Temos quatro operações: ");
         System.out.println("1 - Adição");
         System.out.println("2 - Subtração");
@@ -19,7 +18,6 @@ public class Quatro {
         System.out.println("4 - Divisão");
         System.out.print("Escolha o número correspondente a operação que você quer: ");
         var opera = sc.nextInt();
-        
 
         if (opera == 1){
             var res1 = (num1 + num2);
